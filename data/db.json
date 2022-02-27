@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3,
+      "author": "Zanna",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat tellus mauris, in imperdiet tortor elementum id. Aliquam tempor, dolor ac ultricies tristique, lectus neque convallis erat, quis posuere neque odio laoreet est. Suspendisse aliquam, ligula at consequat fermentum, erat lacus pulvinar sem, et viverra diam libero vitae eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut arcu velit. Curabitur ac interdum felis. Integer in commodo elit. Integer sit amet libero eget velit viverra laoreet. Nulla pulvinar dignissim eros in tempus. Phasellus tincidunt magna nisi, vitae suscipit augue lobortis vitae. Aliquam a placerat enim, id elementum arcu. Nunc id magna ultrices, interdum velit vel, rhoncus nisl. Mauris ac interdum est, id maximus neque. Maecenas sollicitudin justo at massa volutpat ullamcorper. Nullam ornare a arcu at euismod."
+    },
+    {
+      "id": 4,
+      "author": "Kelvin",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat tellus mauris, in imperdiet tortor elementum id. Aliquam tempor, dolor ac ultricies tristique, lectus neque convallis erat, quis posuere neque odio laoreet est. Suspendisse aliquam, ligula at consequat fermentum, erat lacus pulvinar sem, et viverra diam libero vitae eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut arcu velit. Curabitur ac interdum felis. Integer in commodo elit. Integer sit amet libero eget velit viverra laoreet. Nulla pulvinar dignissim eros in tempus. Phasellus tincidunt magna nisi, vitae suscipit augue lobortis vitae. Aliquam a placerat enim, id elementum arcu. Nunc id magna ultrices, interdum velit vel, rhoncus nisl. Mauris ac interdum est, id maximus neque. Maecenas sollicitudin justo at massa volutpat ullamcorper. Nullam ornare a arcu at euismod."
+    },
+    {
+      "id": 5,
+      "author": "Bishop",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat tellus mauris, in imperdiet tortor elementum id. Aliquam tempor, dolor ac ultricies tristique, lectus neque convallis erat, quis posuere neque odio laoreet est. Suspendisse aliquam, ligula at consequat fermentum, erat lacus pulvinar sem, et viverra diam libero vitae eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut arcu velit. Curabitur ac interdum felis. Integer in commodo elit. Integer sit amet libero eget velit viverra laoreet. Nulla pulvinar dignissim eros in tempus. Phasellus tincidunt magna nisi, vitae suscipit augue lobortis vitae. Aliquam a placerat enim, id elementum arcu. Nunc id magna ultrices, interdum velit vel, rhoncus nisl. Mauris ac interdum est, id maximus neque. Maecenas sollicitudin justo at massa volutpat ullamcorper. Nullam ornare a arcu at euismod."
+    },
+    {
+      "id": 6,
+      "author": "Bishop",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat tellus mauris, in imperdiet tortor elementum id. Aliquam tempor, dolor ac ultricies tristique, lectus neque convallis erat, quis posuere neque odio laoreet est. Suspendisse aliquam, ligula at consequat fermentum, erat lacus pulvinar sem, et viverra diam libero vitae eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut arcu velit. Curabitur ac interdum felis. Integer in commodo elit. Integer sit amet libero eget velit viverra laoreet. Nulla pulvinar dignissim eros in tempus. Phasellus tincidunt magna nisi, vitae suscipit augue lobortis vitae. Aliquam a placerat enim, id elementum arcu. Nunc id magna ultrices, interdum velit vel, rhoncus nisl. Mauris ac interdum est, id maximus neque. Maecenas sollicitudin justo at massa volutpat ullamcorper. Nullam ornare a arcu at euismod."
+    },
+    {
+      "id": 7
+    }
+  ]
+}
